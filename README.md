@@ -1,6 +1,6 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-# Sign-Up with Social OAuth
+# Sign-In with Social OAuth
 
 ### This is a basic signup template with social OAuth. developed with Laravel framework 8 and Laravel Socialite 
 
