@@ -27,6 +27,16 @@ FACEBOOK_CLIENT_SECRET=" "
 Create a database and put the database name into the .env
 
 ```php
+npm install
+``` 
+```php
 php artisan migrate
 ```
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+```php
+npm run dev 
+```
+<p align="center"><img src="https://raw.githubusercontent.com/ukmihiran/OAuth-Social-Login-Laravel/master/meta/indexPage.PNG" style="margin-bottom: 20px"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/ukmihiran/OAuth-Social-Login-Laravel/master/meta/fb.PNG" style="margin-bottom: 20px"></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/ukmihiran/OAuth-Social-Login-Laravel/master/meta/google.PNG" style="margin-bottom: 20px"></p>
