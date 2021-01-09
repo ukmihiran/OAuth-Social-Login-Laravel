@@ -2,7 +2,7 @@
 
 # Sign-In with Social OAuth
 
-### This is a basic signup template with social OAuth. developed with Laravel framework 8 and Laravel Socialite 
+### This is a basic PHP Sign-In template with social OAuth. developed with Laravel framework 8 and Laravel Socialite 
 
 ## Step 1:
 ### Add OAuth keys .env file
